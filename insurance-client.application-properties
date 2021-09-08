@@ -1,0 +1,4 @@
+property-file.name=DEFAULT
+property-file.description=DEFAULT Environment Value !!
+insurance.provider.url=http://localhost:9091/insurance-service/getAllPlans
+insurance.provider.contacts.url=http://localhost:9091/insurance-service/getContacts
